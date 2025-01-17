@@ -1,19 +1,19 @@
 [package]
 name = "deeruni"
-version = "0.1.4"
+version = "0.1.2"
 edition = "2021"
 
 [dependencies]
-futures = "0.3.31"
-async-trait = "0.1.81"
-tokio = { version = "1.39.0", features = ["full"] }
-tokio-util = { version = "0.7.12", features = ["rt"] }
-tracing = "0.1.41"
-tracing-subscriber = { version = "0.3.19", features = ["env-filter"] }
-serde = { version = "1.0.208", features = ["derive"] }
-serde_json = "1.0.121"
-reqwest = { version = "0.12.6", features = ["json"] }
-libp2p = { version = "0.55.0", features = [
+futures = "0.3.30"
+async-trait = "0.1.80"
+tokio = { version = "1.38.1", features = ["full"] }
+tokio-util = { version = "0.7.11", features = ["rt"] }
+tracing = "0.1.40"
+tracing-subscriber = { version = "0.3.18", features = ["env-filter"] }
+serde = { version = "1.0.207", features = ["derive"] }
+serde_json = "1.0.120"
+reqwest = { version = "0.12.5", features = ["json"] }
+libp2p = { version = "0.54.0", features = [
     "tokio",
     "gossipsub",
     "mdns",
@@ -33,6 +33,6 @@ libp2p = { version = "0.55.0", features = [
     "request-response",
 ] }
 
-sha2 = "0.10.9"
-chrono = "0.4.39"
-uuid = "1.11.0"
+sha2 = "0.10.8"
+chrono = "0.4.38"
+uuid = "1.10.0"
