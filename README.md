@@ -77,6 +77,9 @@ AIMXT is set to launch on the **Solana network** via **Pump.fun**, a platform de
 ### Contract Address:
 **Coming Soon**
 
+### Dev Token Lock:
+**Coming Soon**
+
 ### Tokenomics:
 - **Team Allocation**: The team will hold **5% of the total supply**, which will be locked post-launch and announced on my [Twitter](https://x.com/patsypython).  
 - **Developer Tokens**: All developer tokens will be:
