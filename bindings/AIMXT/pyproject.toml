@@ -1,0 +1,45 @@
+[build-system]
+requires = ["maturin>=1.1,<2.0"]
+build-backend = "maturin"
+
+[project]
+name = "AIMXT"
+requires-python = ">=3.7"
+description = "AIMXT is an advanced multi-agent platform specifically developed for AIMXT Aritficial Intelligence."
+readme = { file = "README.md", content-type = "text/markdown" }
+license = { file = "LICENSE" }
+keywords = ["Aritifical Intelligence", "Multi Agent Systems", "AIMXT", "AIMXT Aritficial Intelligence."]
+dynamic = []
+version = "0.16.22"
+classifiers = [
+    "Programming Language :: Rust",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Operating System :: OS Independent",
+    "License :: OSI Approved :: Apache Software License",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+
+dependencies = [
+    "langchain==0.2.14",
+    "langchain-community==0.2.12",
+    "langchain-experimental==0.0.64",
+    "networkx==3.3",
+    "pydantic==2.8.2",
+    "toml==0.10.2",
+    "loguru==0.7.2",
+    "mkdocs-material==9.5.32"
+]
+
+[project.urls]
+Homepage = "https://AIMXT.ai"
+Documentation = "https://AIMXT.ai"
+Repository = "https://github.com/AIMXTai/AIMXT"
+Issues = "https://github.com/AIMXTai/AIMXT/issues"
+Changelog = "https://github.com/AIMXTai/AIMXT/blob/master/CHANGELOG.md"

@@ -1,0 +1,10 @@
+.idea
+target
+
+.env
+!.env.sample
+/bindings/AIMXT/AIMXT/AIMXT/
+/bindings/AIMXT/tests/data/*
+!/bindings/AIMXT/tests/data/.no
+
+*.AIMXT_network

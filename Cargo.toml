@@ -1,0 +1,3 @@
+[workspace]
+members = ["libs/sangedama", "bindings/AIMXT"]
+resolver = "2"
