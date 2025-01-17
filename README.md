@@ -70,6 +70,23 @@ Get started with AIMXT by following our step-by-step [Getting Started Guide](./d
 - [ ] Web Agent
 - [ ] Agent Registry
 
+## 🚀 Launching on Pump.fun
+
+AIMXT is set to launch on the **Solana network** via **Pump.fun**, a platform designed to bring more visibility to innovative projects. This launch aims to attract a broader audience and secure future funding opportunities to ensure AIMXT's growth and sustainability.  
+
+### Contract Address:
+**Coming Soon**
+
+### Tokenomics:
+- **Team Allocation**: The team will hold **5% of the total supply**, which will be locked post-launch and announced on my [Twitter](https://x.com/patsypython).  
+- **Developer Tokens**: All developer tokens will be:
+  - Locked for the first **6 months post-launch**.
+  - Vested over **3 years**, released **month by month** to ensure long-term commitment to the project.  
+- **Transparency**: All developer token spendings will be publicly announced on my [Twitter](https://x.com/patsypython) to maintain complete transparency.
+
+Stay tuned for further updates, and follow me on [Twitter](https://x.com/patsypython) for the latest announcements.
+
+
 ## 🤝 Contributions Welcome
 
 We appreciate contributions from the community! Before submitting a pull request, please review our [contributing guidelines](CONTRIBUTING.md).
