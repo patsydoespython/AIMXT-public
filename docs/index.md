@@ -1,15 +1,12 @@
 # AIMXT: A Multi-Agent System (MAS)
 
-> Empowering Collaboration, Simplifying Complexity
+> Simplifying Complexity, Enhancing Collaboration
 
-[![PyPI - Version](https://img.shields.io/pypi/v/AIMXT.svg)](https://pypi.org/project/AIMXT)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/AIMXT.svg)](https://pypi.org/project/AIMXT)
+![PyPI - Version](https://img.shields.io/badge/pypi-v0.16.22-orange) ![PyPI - Python Version](https://img.shields.io/badge/python-3.12-blue)
 
 ## Introduction
 
-Welcome to AIMXT: A Multi-Agent System (MAS) designed to orchestrate complex task flows among multiple AI agents.
-AIMXT manages and automates interactions between agents, each with specific roles and responsibilities, enabling
-powerful collaborative AI solutions. By empowering collaboration and simplifying complexity, AIMXT opens up new
-possibilities in AI-driven task automation and problem-solving.
+
+Welcome to AIMXT: A cutting-edge Multi-Agent System (MAS) purpose-built to streamline and orchestrate complex task flows among a network of specialized AI agents. AIMXT is designed to manage and automate the interactions between these agents, each assigned distinct roles and responsibilities, enabling seamless collaboration and the creation of powerful AI-driven solutions. By fostering cooperation and reducing complexity, AIMXT unlocks innovative possibilities for task automation and advanced problem-solving in the realm of artificial intelligence.
 
 ![AIMXT Architecture](../contents/images/img.png)
