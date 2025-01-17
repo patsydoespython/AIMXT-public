@@ -75,7 +75,7 @@ Get started with AIMXT by following our step-by-step [Getting Started Guide](./d
 AIMXT is set to launch on the **Solana network** via **Pump.fun**, a platform designed to bring more visibility to innovative projects. This launch aims to attract a broader audience and secure future funding opportunities to ensure AIMXT's growth and sustainability.  
 
 ### Contract Address:
-**Coming Soon**
+**E9QYWkes72X4e528myfny7MWPTqN3V5Sf3vP36btpump**
 
 ### Dev Token Lock:
 **Coming Soon**
