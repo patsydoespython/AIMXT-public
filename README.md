@@ -90,7 +90,7 @@ AIMXT is set to launch on the **Solana network** via **Pump.fun**, a platform de
 Stay tuned for further updates, and follow me on [Twitter](https://x.com/patsypython) for the latest announcements.
 
 ## AIMXT²:
-AIMXT² is a premium utility token designed to unlock exclusive AIMXT tools for advanced users. Airdropped proportionally to AIMXT token holders, its distribution is based on a snapshot taken at 3 AM UTC. With 4% of the supply reserved for the creator, AIMXT² ensures equitable access while rewarding loyal community members.
+AIMXT² is a premium utility token designed to unlock exclusive AIMXT tools for advanced users. Airdropped proportionally to AIMXT token holders, its distribution is based on a snapshot taken at 3 AM UTC. With 3% of the supply reserved for the creator, AIMXT² ensures equitable access while rewarding loyal community members.
 
 ### Contract Address:
 **Coming Soon!**
