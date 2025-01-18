@@ -1,4 +1,6 @@
-# AIMXT: Multi-Agent Framework !!!RAN BY GSKID, GG SHITTER
+(GitHub Reinstated)
+
+# AIMXT: Multi-Agent Framework
 
 > Simplifying Complexity, Enhancing Collaboration
 
@@ -88,12 +90,6 @@ AIMXT is set to launch on the **Solana network** via **Pump.fun**, a platform de
 - **Transparency**: All developer token spendings will be publicly announced on my [Twitter](https://x.com/patsypython) to maintain complete transparency.
 
 Stay tuned for further updates, and follow me on [Twitter](https://x.com/patsypython) for the latest announcements.
-
-## AIMXT²:
-AIMXT² is a premium utility token unlocking exclusive AIMXT tools for advanced users. Distributed via an airdrop to AIMXT token holders, its allocation is based on a 3 AM UTC snapshot, with 3% of the supply reserved for the airdrop pool to reward loyal community members.
-
-### Contract Address:
-**VRnvgg2s4fSonLDqjqjBPG75QNoSZSkqX7RHw19pump** - ganked by @Gskid GG
 
 
 ## 🤝 Contributions Welcome
