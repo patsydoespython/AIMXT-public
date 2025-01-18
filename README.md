@@ -93,7 +93,7 @@ Stay tuned for further updates, and follow me on [Twitter](https://x.com/patsypy
 AIMXT² is a premium utility token designed to unlock exclusive AIMXT tools for advanced users. Airdropped proportionally to AIMXT token holders, its distribution is based on a snapshot taken at 3 AM UTC. With 4% of the supply reserved for the creator, AIMXT² ensures equitable access while rewarding loyal community members.
 
 ### Contract Address:
-**Coming Soon**
+**Coming Soon!**
 
 
 ## 🤝 Contributions Welcome
